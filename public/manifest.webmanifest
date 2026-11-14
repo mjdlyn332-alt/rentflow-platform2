@@ -1,0 +1,19 @@
+{
+  "name": "مِلاك — إدارة العقارات والإيجارات والمحاسبة",
+  "short_name": "مِلاك",
+  "description": "منصة متكاملة لإدارة العقارات وعقود الإيجار والتحصيل والصيانة والمحاسبة الآلية.",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F2A44",
+  "icons": [
+    {
+      "src": "/icons/melaak-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
